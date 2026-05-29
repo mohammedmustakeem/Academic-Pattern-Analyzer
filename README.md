@@ -4,37 +4,24 @@ Academic Pattern Analyzer is a machine learning project designed to study studen
 
 1. Features
 Data Preprocessing: Cleaning and preparing the dataset for analysis.
-
 Feature Engineering: Creation of a new feature total_score by combining math, reading, and writing scores.
-
 Performance Analysis: Identifying trends in student performance based on exam scores.
-
 Logistic Regression Model: Applying Logistic Regression for classification and prediction.
-
 Feature Scaling: Normalizing numerical values using StandardScaler before training.
 
 2. Technologies Used
 Python – Core programming language.
-
 Pandas – Data manipulation and preprocessing.
-
 Scikit-learn – Machine learning, scaling, and model training.
-
 KaggleHub – Dataset downloading and management.
 
 3. Machine Learning Workflow
 Dataset Collection – Data sourced from Kaggle.
-
 Data Preprocessing – Cleaning and organizing the dataset.
-
 Feature Engineering – Creating additional score-based features.
-
 Train-Test Split – Dividing data into training and testing sets.
-
 Feature Scaling – Applying StandardScaler to numerical features.
-
 Model Training – Training Logistic Regression on processed data.
-
 Prediction & Evaluation – Generating predictions and evaluating accuracy.
 
 4. Dataset
@@ -45,11 +32,8 @@ To analyze academic performance patterns and study score-based trends between ma
 
 6. Future Improvements
 Deep Learning Integration – Incorporating neural networks.
-
 Better Feature Engineering – Creating more meaningful academic features.
-
-Visualization Dashboard – Interactive graphs and dashboards.
-
+Visualization Dashboard – Interactive graphs and dashboards.\
 Advanced Models – Testing additional machine learning algorithms.
 
 7. Author
