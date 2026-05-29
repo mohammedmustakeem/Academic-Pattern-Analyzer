@@ -1,0 +1,13 @@
+# Make predictions
+pred = model.predict(X_test)
+
+print(pred)
+# Check Accuracy
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import(f1_score,precision_score,recall_score,)
+
+
+accuracy = accuracy_score(Y_test, pred)
+accuracy = precision(Y_test, pred)
+
+print(f"{accuracy:.2f}")
